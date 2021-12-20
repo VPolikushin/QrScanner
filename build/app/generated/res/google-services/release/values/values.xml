@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">876486228731-87qt2ml0ja3k3lq25g220q51kruqf1nh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">876486228731</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsxJs6jnEst5AZBbJ1Kd3vwR3CiEJkih4</string>
+    <string name="google_app_id" translatable="false">1:876486228731:android:50caa8e3728dffaf200e5e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsxJs6jnEst5AZBbJ1Kd3vwR3CiEJkih4</string>
+    <string name="google_storage_bucket" translatable="false">qrscanner-2b734.appspot.com</string>
+    <string name="project_id" translatable="false">qrscanner-2b734</string>
+</resources>

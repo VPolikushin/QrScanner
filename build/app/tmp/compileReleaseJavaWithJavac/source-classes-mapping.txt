@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/qr_scanner/BuildConfig.java
+ com.example.qr_scanner.BuildConfig
+com/example/qr_scanner/MainActivity.java
+ com.example.qr_scanner.MainActivity

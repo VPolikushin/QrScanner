@@ -1,0 +1,4 @@
+#Sun Dec 12 14:40:55 MSK 2021
+base.0=/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

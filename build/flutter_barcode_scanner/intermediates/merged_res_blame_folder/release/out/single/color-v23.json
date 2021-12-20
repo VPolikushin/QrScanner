@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/vladislavpolikusin/Documents/prog_projects/QrScanner/build/flutter_barcode_scanner/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/vladislavpolikusin/.gradle/caches/transforms-2/files-2.1/049b4a729439b1982390551f058da79f/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
+    }
+]
